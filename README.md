@@ -7,7 +7,7 @@
 The application that can read in commands of the following form
 
     PLACE 2,2,NORTH
-    MOVEs
+    MOVE
     LEFT
     RIGHT
     REPORT
@@ -16,9 +16,10 @@ The application that can read in commands of the following form
 
 a)
 
-	PLACE 2,2,NORTH
-  MOVE
-  REPORT
+	PLACE 2,2,SOUTH
+    MOVE
+    REPORT
+
 
 	Output: 2,1,SOUTH
 
