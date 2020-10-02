@@ -1,7 +1,7 @@
 module Validations
   class Command
 
-  	PLACE = :place
+    PLACE = :place
     MOVE = :move
     RIGHT = :left
     LEFT = :right
